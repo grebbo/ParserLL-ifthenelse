@@ -1,0 +1,1 @@
+if ciao then come else stai endif
